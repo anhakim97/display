@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="penginapan.xsl"?>
+<penginapan>
+	<kost>
+		<kota name="Yogyakarta">
+			<putra>
+				<kos name="Pak Umar">
+					<alamat>Jalan Kaliurang KM 14.5</alamat>
+					<fasilitaskamar>
+						<fasilitas name="Kamar Mandi Dalam"/>
+						<fasilitas name="Kamar kosongan"/>
+					</fasilitaskamar>
+					<luas>3x3</luas>
+					<harga>Rp. 500.000/bulan</harga>
+				</kos>
+				<kos name="Kuning Yogyakarta">
+					<alamat>Depok, Sleman</alamat>
+					<fasilitaskamar>
+						<fasilitas name="Kamar Mandi Dalam"/>
+						<fasilitas name="Bed"/>
+						<fasilitas name="Meja Belajar"/>
+						<fasilitas name="Almari Pakaian"/>
+						<fasilitas name="TV"/>
+						<fasilitas name="Dispenser"/>
+						<fasilitas name="AC"/>
+					</fasilitaskamar>
+					<luas>3.5x4.5</luas>
+					<harga>Rp. 1.750.000/bulan</harga>
+				</kos>
+				<kos name="Rafa">
+					<alamat>Gamping, Sleman</alamat>
+					<fasilitaskamar>
+						<fasilitas name="Kamar Mandi Luar"/>
+						<fasilitas name="Wastafel"/>
+						<fasilitas name="Kamar kosongan"/>
+					</fasilitaskamar>
+					<luas>4x4</luas>
+					<harga>Rp. 550.000/bulan</harga>
+				</kos>
+			</putra>
+			<putri>
+				<kos name="iROOMS Exclusive Sleman Yogyakarta">
+					<alamat>Depok, Sleman</alamat>
+					<fasilitaskamar>
+						<fasilitas name="Kamar Mandi Dalam"/>
+						<fasilitas name="Almari Pakaian"/>
+						<fasilitas name="Meja Belajar"/>
+						<fasilitas name="Kursi Belajar"/>
+						<fasilitas name="AC"/>
+					</fasilitaskamar>
+					<luas>3x4</luas>
+					<harga>Rp. 1.600.000/bulan</harga>
+				</kos>
+				<kos name="Anugerah Pandeyan">
+					<alamat>Umbulharjo, Yogyakarta</alamat>
+					<fasilitaskamar>
+						<fasilitas name="Kamar Mandi Dalam"/>
+						<fasilitas name="Bed"/>
+						<fasilitas name="Cleaning Service"/>
+						<fasilitas name="AC"/>
+					</fasilitaskamar>
+					<luas>4x4</luas>
+					<harga>Rp. 1.300.000/bulan</harga>
+				</kos>
+				<kos name="Cendana 6">
+					<alamat>Sleman, Yogyakarta</alamat>
+					<fasilitaskamar>
+						<fasilitas name="Kamar Mandi Luar"/>
+						<fasilitas name="Bed"/>
+						<fasilitas name="Meja Belajar"/>
+						<fasilitas name="Kursi Belajar"/>
+					</fasilitaskamar>
+					<luas>3x3</luas>
+					<harga>Rp. 500.000/bulan</harga>
+				</kos>
+			</putri>
+		</kota>
+	</kost>
+	<penginapanwisma>
+		<kota name="Yogyakarta">
+			<wisma name="Divina">
+				<alamat>Depok ,Sleman</alamat>
+				<fasilitaskamar>
+					<fasilitas name="Kamar Mandi Dalam"/>
+					<fasilitas name="Bed"/>
+					<fasilitas name="Meja Belajar"/>
+					<fasilitas name="Kursi Belajar"/>
+				</fasilitaskamar>
+				<luas>3x3</luas>
+				<harga>Rp. 250.000/hari</harga>
+			</wisma>
+			<wisma name="wisma Adhi ">
+				<alamat>Depok ,Sleman</alamat>
+				<fasilitaskamar>
+					<fasilitas name="Kamar Mandi Luar"/>
+					<fasilitas name="Bed"/>
+					<fasilitas name="Meja Belajar"/>
+					<fasilitas name="Kursi Belajar"/>
+				</fasilitaskamar>
+				<luas>3x3</luas>
+				<harga>Rp. 600.000/bulan</harga>
+			</wisma>
+			<wisma name="Almaidah">
+				<alamat>Pogung Baru Blok B3 Jl, Kaliurang KM 5, Sinduadi, Mlati, 55281 Yogyakarta, Indonesia</alamat>
+				<fasilitaskamar>
+					<fasilitas name="Kamar Mandi Luar"/>
+					<fasilitas name="Bed"/>
+					<fasilitas name="Meja Belajar"/>
+					<fasilitas name="Kursi Belajar"/>
+				</fasilitaskamar>
+				<luas>3x3</luas>
+				<harga>Rp. 600.000/bulan</harga>
+			</wisma>
+		</kota>
+	</penginapanwisma>
+	<hotels>
+		<kota name="Yogyakarta">
+			<hotel name="Aston">
+				<alamat>Jl. Urip Sumoharjo No.37, Klitren, Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55222</alamat>
+				<fasilitashotel>
+					<fasilitas>Restaurant</fasilitas>
+					<fasilitas>Kolam Renang</fasilitas>
+					<fasilitas>Kamar hotel</fasilitas>
+					<fasilitas>Ruang Meeting</fasilitas>
+				</fasilitashotel>
+				<harga>Rp. 603.000</harga>
+			</hotel>
+			<hotel name="Inna">
+				<alamat>Jl. Malioboro No.60, Suryatmajan, Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55213</alamat>
+				<fasilitashotel>
+					<fasilitas>Sarapan tersedia</fasilitas>
+					<fasilitas>Layanan SPA</fasilitas>
+					<fasilitas>Penitipan anak</fasilitas>
+					<fasilitas>Restaurant</fasilitas>
+					<fasilitas>Wi-Fi gratis</fasilitas>
+				</fasilitashotel>
+				<harga>Rp. 1.212.274</harga>
+			</hotel>
+			<hotel name="Harper">
+				<alamat>Jl. Mangkubumi No. 52, Yogyakarta, Yogyakarta, 55232, Indonesia</alamat>
+				<fasilitashotel>
+					<fasilitas>Kolam renang outdoor</fasilitas>
+					<fasilitas>Sarapan tersedia</fasilitas>
+					<fasilitas>Pusat konferensi</fasilitas>
+					<fasilitas>Layanan laundry</fasilitas>
+					<fasilitas>Wi-Fi gratis</fasilitas>
+				</fasilitashotel>
+				<harga>Rp. 516.336</harga>
+			</hotel>
+		</kota>
+	</hotels>
+	<Losmens>
+		<kota name="Yogyakarta">
+			<Losmen name="Sae Sae">
+				<harga>1000000</harga>
+			</Losmen>
+			<Losmen name="Mashbrow Hostel">
+				<harga>2000000</harga>
+			</Losmen>
+			<Losmen name="Jogja Backpacker Home">
+				<harga>3000000</harga>
+			</Losmen>
+		</kota>
+	</Losmens>
+	<apartements>
+		<kota name="Yogyakarta">
+			<apartement name="Kampoeng Elite Sulawesi Unit 19 A Lt.2 Yogyakarta">
+				<alamat>Jl. Sulawesi No.19A, Sinduadi, Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281</alamat>
+				<tipeunit>Rumah</tipeunit>
+				<luasunit>52 m2</luasunit>
+				<kondisiunit>Not Furnished</kondisiunit>\
+				<harga>Rp. 2.500.000 / hari</harga>
+			</apartement>
+			<apartement name="Student Castle Tipe Studio">
+				<alamat>Jalan Selokan Mataram, Catur Tunggal, Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281</alamat>
+				<tipeunit>1-Room Studio</tipeunit>
+				<luasunit>21 m2</luasunit>
+				<kondisiunit>Furnished</kondisiunit>\
+				<harga>Rp. 3.500.000 / bulan</harga>
+			</apartement>
+			<apartement name="Retra's WG ">
+				<alamat>Jalan Pandega Padma No. 176, Pogung Lor, Sinduadi, Mlati, Sleman Regency, Special Region of Yogyakarta 55281</alamat>
+				<tipeunit>2 BR</tipeunit>
+				<luasunit>54 m2</luasunit>
+				<kondisiunit>Furnished</kondisiunit>\
+				<harga>Rp.  5.250.000 / bulan</harga>
+			</apartement>
+		</kota>
+	</apartements>
+</penginapan>
